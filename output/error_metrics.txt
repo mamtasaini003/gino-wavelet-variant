@@ -1,0 +1,6 @@
+Mean Squared Error (MSE): 2.982381e-05
+Root Mean Squared Error (RMSE): 5.461118e-03
+Mean Absolute Error (MAE): 4.395146e-03
+L2 Norm of Error: 1.130544e+00
+Relative L2 Error: 9.337648e-03
+R² Score: 0.999913
